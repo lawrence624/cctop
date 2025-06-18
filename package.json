@@ -1,0 +1,10 @@
+{
+  "name": "cctop",
+  "version": "0.1.0",
+  "description": "Live top-style monitor for Claude Code sessions",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
