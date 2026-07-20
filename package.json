@@ -1,6 +1,6 @@
 {
   "name": "cctop",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "Live top-style monitor for Claude Code sessions",
   "main": "src/index.ts",
   "scripts": {
